@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4502/bin/franklin.delivery/vijaygaur-me/myeds/main"
+    url: "https://author-p67012-e899281.adobeaemcloud.com/bin/franklin.delivery/vijaygaur-me/myeds/main"
     type: "markup"
     suffix: ".html"
